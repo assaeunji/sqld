@@ -15,4 +15,4 @@
 
 ### SQLD 데이터 전문가 가이드 요약 & 기출문제
 * http://wiki.gurubee.net/pages/viewpage.action?pageId=27426887
-* http://wiki.gurubee.net/pages/vi ewpage.action?pageId=26743251
+* http://wiki.gurubee.net/pages/viewpage.action?pageId=26743251
